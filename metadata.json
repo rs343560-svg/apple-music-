@@ -1,0 +1,6 @@
+{
+  "name": "Apple Music",
+  "description": "Apple Music player with fluid bottom sheet expansion, interactive physics gestures, background scaling, lyrics, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
